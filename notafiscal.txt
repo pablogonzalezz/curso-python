@@ -1,0 +1,10 @@
+Curso de Python
+CNPJ: 23423.234234/234234
+Endereco: Silas Munguba, Itaperi, 2000
+Email: cursodepython@gmail.com
+Telefone: 988324196
+
+------------Produtos------------
+Memória DDR4 8GB------- Valor:R$: 200
+Gabinete Gamer------- Valor:R$: 400
+Processador core I7-7100------- Valor:R$: 900
